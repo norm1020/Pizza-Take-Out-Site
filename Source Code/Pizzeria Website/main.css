@@ -6,7 +6,15 @@ body {
 h1 {
         text-align: center;
         font-family: arial;
+        text-shadow: 2px 2px #E8A87C;
         font-size: 60pt;
         color: #E27D60;
         margin-bottom: 5px;
+}
+
+h6 {
+  font-family: arial;
+  font-size: 32px;
+  text-shadow: 2px 2px #E8A87C;
+  color: #E27D60;
 }
